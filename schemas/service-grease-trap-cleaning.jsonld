@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://www.wrenvironmental.com/#service-grease-trap-cleaning",
+  "name": "Grease Trap Cleaning",
+  "serviceType": "Grease trap cleaning",
+  "url": "https://www.wrenvironmental.com/business-commercial/grease-trap-cleaning/",
+  "description": "Commercial grease trap cleaning and grease interceptor services. Users can request an estimate online via BookMyGrease.com.",
+  "provider": {
+    "@id": "https://www.wrenvironmental.com/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "potentialAction": {
+    "@type": "QuoteAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.bookmygrease.com/",
+      "actionPlatform": [
+        "http://schema.org/DesktopWebPlatform",
+        "http://schema.org/MobileWebPlatform"
+      ]
+    }
+  }
+}
