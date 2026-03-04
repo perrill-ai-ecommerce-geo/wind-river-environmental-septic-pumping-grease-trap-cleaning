@@ -220,6 +220,20 @@ Explanations of wastewater service categories.
 
 ---
 
+## Facts
+
+Company facts and industry definitions.
+
+```
+/facts
+  organization-facts.md
+  septic-system-facts.md
+  grease-management-facts.md
+  wastewater-service-facts.md
+```
+
+---
+
 ## Listicles
 
 Educational content describing service scenarios.
