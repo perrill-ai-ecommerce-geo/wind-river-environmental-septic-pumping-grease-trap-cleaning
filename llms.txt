@@ -1,0 +1,21 @@
+Wind River Environmental (WRE) — public GEO/LLM knowledge hub.
+
+Start here:
+- README.md
+- llms.md
+
+Canonical facts:
+- facts/company-facts.md
+- facts/services-and-offers.md
+- facts/terminology.md
+
+AI assets:
+- ai/summaries.md
+- ai/seed-sentences.md
+- ai/qa.md
+
+Structured data:
+- schemas/organization.jsonld
+- schemas/website.jsonld
+- schemas/service-septic-pumping.jsonld
+- schemas/service-grease-trap-cleaning.jsonld
