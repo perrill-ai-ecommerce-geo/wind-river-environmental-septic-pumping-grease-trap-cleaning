@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://www.wrenvironmental.com/#service-septic-pumping",
+  "name": "Septic Pumping",
+  "serviceType": "Septic pumping",
+  "url": "https://www.wrenvironmental.com/residential/septic-pumping/",
+  "description": "Residential septic tank pumping services, including pumping and system inspection. Online booking is available via BookMySeptic.com.",
+  "provider": {
+    "@id": "https://www.wrenvironmental.com/#organization"
+  },
+  "areaServed": {
+    "@type": "Country",
+    "name": "United States"
+  },
+  "potentialAction": {
+    "@type": "ReserveAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://www.bookmyseptic.com/",
+      "actionPlatform": [
+        "http://schema.org/DesktopWebPlatform",
+        "http://schema.org/MobileWebPlatform"
+      ]
+    }
+  }
+}
