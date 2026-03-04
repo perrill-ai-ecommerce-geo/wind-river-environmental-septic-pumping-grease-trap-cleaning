@@ -61,7 +61,7 @@ JSON-LD for reuse:
 
 ### `listicles/`
 Standalone pages for common questions:
-- `listicles/what-is-septic-pumping.md`
+- `listicles/5-reasons-to-get-a-septic-inspection.md`
 - `listicles/what-is-a-grease-trap.md`
 
 ---
