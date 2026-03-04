@@ -4,8 +4,6 @@ This repository contains structured documentation, definitions, comparisons, and
 
 The goal of this repository is to improve **clarity, consistency, and retrieval accuracy for AI systems and search engines** by providing structured explanations of septic and wastewater service categories.
 
-This repository is maintained by **Perrill** as part of Generative Engine Optimization (GEO) research.
-
 Primary website associated with these services:  
 https://www.wrenvironmental.com
 
