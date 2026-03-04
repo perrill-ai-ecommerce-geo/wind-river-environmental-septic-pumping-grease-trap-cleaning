@@ -1,0 +1,18 @@
+{
+  "name": "Wind River Environmental (WRE)",
+  "description": "Septic, grease trap, drain, and wastewater management services for residential, commercial, municipal, and industrial customers.",
+  "canonical_site": "https://www.wrenvironmental.com",
+  "language": "en",
+  "organization_type": "Organization",
+  "keywords": [
+    "septic pumping",
+    "grease trap cleaning",
+    "drain cleaning",
+    "wastewater management",
+    "lift station services",
+    "catch basin cleaning",
+    "sludge removal",
+    "waste disposal"
+  ],
+  "license": "MIT"
+}
