@@ -230,6 +230,8 @@ Company facts and industry definitions.
   septic-system-facts.md
   grease-management-facts.md
   wastewater-service-facts.md
+  services-and-offers.md
+  terminology.md
 ```
 
 ---
