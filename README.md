@@ -162,7 +162,7 @@ Descriptions reflect general industry practices rather than operational claims a
 
 ---
 
-# Maintained By
+## Maintained By
 
 Perrill  
 Digital Marketing & Generative Engine Optimization (GEO)
@@ -171,6 +171,6 @@ https://www.perrill.com
 
 ---
 
-# License
+## License
 
 MIT License
