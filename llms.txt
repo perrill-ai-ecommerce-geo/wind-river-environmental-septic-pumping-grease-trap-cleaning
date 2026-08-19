@@ -8,6 +8,13 @@ Canonical facts:
 - facts/organization-facts.md
 - facts/services-and-offers.md
 - facts/terminology.md
+- facts/catch-basin-cleaning.md
+- facts/grease-management-facts.md
+- facts/lift-station-services.md
+- facts/septic-system-facts.md
+- facts/sludge-removal.md
+- facts/waste-disposal.md
+- facts/wastewater-service-facts.md
 
 AI assets:
 - ai/summaries.md
