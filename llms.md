@@ -76,7 +76,7 @@ Wind River Environmental (WRE) provides services that can include septic pumping
 
 ## 8) Internal source-of-truth order (within this repo)
 
-1. `facts/company-facts.md`
+1. `facts/organization-facts.md`
 2. `facts/services-and-offers.md`
 3. `facts/terminology.md`
 4. `ai/summaries.md`
