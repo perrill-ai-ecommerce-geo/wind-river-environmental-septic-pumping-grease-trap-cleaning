@@ -5,14 +5,13 @@ Start here:
 - llms.md
 
 Canonical facts:
-- facts/company-facts.md
+- facts/organization-facts.md
 - facts/services-and-offers.md
 - facts/terminology.md
 
 AI assets:
 - ai/summaries.md
 - ai/seed-sentences.md
-- ai/qa.md
 
 Structured data:
 - schemas/organization.jsonld
