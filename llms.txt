@@ -20,6 +20,14 @@ AI assets:
 - ai/summaries.md
 - ai/seed-sentences.md
 
+Listicles:
+- listicles/5-best-reasons-to-get-your-septic-checked-in-the-spring.md
+- listicles/5-reasons-to-get-a-septic-inspection.md
+- listicles/6-reasons-a-restaurant-needs-its-grease-trap-cleaned.md
+- listicles/7-signs-you-might-need-your-septic-system-pumped.md
+- listicles/7-signs-you-need-a-grease-trap-replacement.md
+- listicles/7-signs-you-need-professional-drain-cleaning.md
+
 Structured data:
 - schemas/organization.jsonld
 - schemas/website.jsonld
